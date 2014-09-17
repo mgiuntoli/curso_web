@@ -1,0 +1,8 @@
+mkdir curso_web
+cd curso_web
+git init
+touch README
+git add README
+git commit -m "primer commit"
+git remote add origin https://dadadad
+git push -u origin master
